@@ -463,6 +463,7 @@ export default function AlpacaAvatarGenerator() {
             <li>Add more parts (nose shapes, patterns, backgrounds).</li>
             <li>Persist favorites to localStorage.</li>
             <li>Add a shareable URL by encoding state into the query string.</li>
+            <li>Break App component down into multiple components for better readability.</li>
           </ul>
         </Panel>
       </div>
